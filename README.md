@@ -238,7 +238,7 @@ Places to ask questions, share projects, and stay current with the extension eco
 - [WXT Discord](https://wxt.dev/) - Active Discord community for the WXT framework, covering usage questions, framework development, and extension ecosystem discussions.
 - [Plasmo Discord](https://www.plasmo.com/) - Plasmo's community Discord for framework questions, templates, and sharing extensions built with Plasmo.
 - [Chrome for Developers Blog](https://developer.chrome.com/blog) - Official blog with monthly "What's happening in Chrome Extensions" posts and I/O recap articles.
-- [Extension Workshop Blog (Mozilla)](https://extensionworkshop.com/blog/) - Mozilla's blog covering Firefox add-on news, policy updates, and developer spotlights.
+- [Mozilla Add-ons Blog](https://blog.mozilla.org/addons/) - Mozilla's official blog covering Firefox add-on news, policy updates, and developer spotlights.
 
 ---
 
