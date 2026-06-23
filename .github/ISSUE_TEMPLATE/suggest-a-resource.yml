@@ -1,0 +1,35 @@
+name: Suggest a resource
+description: Suggest a new tool, library, or resource for this awesome list
+title: "[Suggestion]: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL (official site or GitHub repo)
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Which section does it belong to?
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it worth adding?
+      description: One or two sentences, noting maintenance status and popularity.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirm
+      options:
+        - label: This resource is real, maintained, and not already in the list.
+          required: true
