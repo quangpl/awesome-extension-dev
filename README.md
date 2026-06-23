@@ -221,6 +221,9 @@ Well-known, production-quality open-source extensions to learn from.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Crowdsourced YouTube sponsor-skip extension demonstrating efficient background API calls, content script timing, and community data pipelines.
 - [Bitwarden Clients](https://github.com/bitwarden/clients) - Official monorepo for Bitwarden's browser extension (Chrome, Firefox, Safari, Edge); shows Angular-based extension UI and secure storage patterns.
 - [Wappalyzer (Open Source)](https://github.com/enthec/webappanalyzer) - Technology detection extension using content scripts and pattern matching; good example of large rule-set management.
+- [Stylus](https://github.com/openstyles/stylus) - Userstyles manager for restyling the web, a mature MV3 example with a complex options UI and storage sync.
+- [Violentmonkey](https://github.com/violentmonkey/violentmonkey) - Open-source userscript manager for Chrome, Firefox, and Edge, demonstrating script injection and a rich settings UI.
+- [AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension) - Full-featured ad blocker showing large-scale declarativeNetRequest rule management and cross-browser builds.
 
 ---
 
