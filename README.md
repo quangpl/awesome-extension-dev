@@ -2,7 +2,26 @@
 
 A curated list of the best tools, frameworks, libraries, and resources for building modern browser extensions (Chrome, Edge, Firefox, Safari) in 2026. Covers Manifest V3, cross-browser development with WXT and Plasmo, build tooling, testing, publishing automation, security, and growth.
 
-> **🚀 Sponsored by [Extension Booster](https://extensionbooster.net)**, the growth platform for browser-extension & app developers. Get real reviews, track installs, ratings and competitors across Chrome, Edge, Android and Google Workspace, and auto-convert Manifest V2 to V3. [Start free →](https://extensionbooster.net)
+<div align="center">
+
+<a href="https://extensionbooster.net">
+  <img src="https://extensionbooster.net/logo.webp" alt="Extension Booster" width="150" />
+</a>
+
+<h3>💎 &nbsp;DIAMOND SPONSOR&nbsp; 💎</h3>
+
+<p>
+  <b><a href="https://extensionbooster.net">Extension Booster</a></b><br/>
+  <sub>The growth platform for extension and app developers</sub>
+</p>
+
+<p>
+  <sub>⭐ Real reviews &nbsp;·&nbsp; 📊 Cross-marketplace analytics (Chrome · Edge · Android · Workspace) &nbsp;·&nbsp; 🔁 Manifest V2 to V3 converter</sub>
+</p>
+
+<a href="https://extensionbooster.net"><b>🚀 Start free at extensionbooster.net →</b></a>
+
+</div>
 
 ## Contents
 
@@ -241,7 +260,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for entry format rules, quality standards
 
 ## License
 
-[CC0 1.0 Universal](LICENSE): public domain. No rights reserved.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Quang Phan.
 
 ---
 
