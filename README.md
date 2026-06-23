@@ -39,6 +39,7 @@ A curated list of the best tools, frameworks, libraries, and resources for build
 - [Security and Privacy](#security-and-privacy)
 - [Example Open-Source Extensions](#example-open-source-extensions)
 - [Communities and Newsletters](#communities-and-newsletters)
+- [AI in Extensions](#ai-in-extensions)
 - [Tools and Utilities](#tools-and-utilities)
 
 ---
@@ -235,6 +236,19 @@ Places to ask questions, share projects, and stay current with the extension eco
 - [Plasmo Discord](https://www.plasmo.com/) - Plasmo's community Discord for framework questions, templates, and sharing extensions built with Plasmo.
 - [Chrome for Developers Blog](https://developer.chrome.com/blog) - Official blog with monthly "What's happening in Chrome Extensions" posts and I/O recap articles.
 - [Extension Workshop Blog (Mozilla)](https://extensionworkshop.com/blog/) - Mozilla's blog covering Firefox add-on news, policy updates, and developer spotlights.
+
+---
+
+## AI in Extensions
+
+On-device and in-browser AI for building intelligent, privacy-preserving extension features.
+
+- [Chrome Built-in AI (Gemini Nano)](https://developer.chrome.com/docs/ai/built-in) - Run on-device AI in extensions using Chrome's built-in Prompt, Summarizer, Translator, Writer, and Rewriter APIs powered by Gemini Nano.
+- [Prompt API for Extensions](https://developer.chrome.com/docs/ai/prompt-api) - Official guide to sending natural-language requests to Gemini Nano directly from extension service workers and content scripts.
+- [WebLLM](https://github.com/mlc-ai/web-llm) - High-performance in-browser LLM inference engine using WebGPU, suitable for fully local AI features in extensions.
+- [Transformers.js](https://github.com/huggingface/transformers.js) - Hugging Face library for running machine learning models (text, vision, audio) directly in the browser with WebGPU and no server.
+- [chrome.sidePanel API](https://developer.chrome.com/docs/extensions/reference/api/sidePanel) - Official Side Panel API for hosting persistent extension UI alongside any web page.
+- [chrome.i18n](https://developer.chrome.com/docs/extensions/reference/api/i18n) - Official internationalization API for localizing extension UI strings and store listings.
 
 ---
 
