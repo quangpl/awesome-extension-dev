@@ -1,5 +1,12 @@
 # Awesome Browser Extension Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <a href="https://github.com/quangpl/awesome-extension-dev/stargazers"><img src="https://img.shields.io/github/stars/quangpl/awesome-extension-dev?style=flat-square&logo=github&color=gold" alt="Stars"></a>
+  <a href="https://github.com/quangpl/awesome-extension-dev/commits/main"><img src="https://img.shields.io/github/last-commit/quangpl/awesome-extension-dev?style=flat-square&color=blue" alt="Last commit"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
+
 A curated list of the best tools, frameworks, libraries, and resources for building modern browser extensions (Chrome, Edge, Firefox, Safari) in 2026. Covers Manifest V3, cross-browser development with WXT and Plasmo, build tooling, testing, publishing automation, security, and growth.
 
 <div align="center">
